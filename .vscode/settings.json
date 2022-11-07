@@ -1,0 +1,20 @@
+{
+    "notebook.editorOptionsCustomizations": {
+  
+    },
+
+    "editor.codeActionsOnSave": {
+  "source.fixAll": true,
+  "source.organizeImports": true
+    },
+"editor.autoClosingBrackets": "always",
+"editor.wrappingIndent": "indent"
+,
+
+    "editor.semanticTokenColorCustomizations": {
+    
+    },
+    "editor.formatOnSave": true,
+    "editor.fontLigatures": false,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace,cursive"
+}
